@@ -1,0 +1,64 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background: url(https://www.antenacritica.com.br/wp-content/uploads/2019/10/netflix-1.jpg?zoom=1&resize=300%2C300);
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	margin: 0;
+}
+.formulario{
+	background: #151515;
+	z-index: 100;
+	width: 500px;
+	max-width: 100%;
+	margin: auto;
+	margin-top: 30px;
+	padding: 20px;
+	box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+}
+.formulario__titulo{
+	text-align: center;
+	margin-top: 0;
+	color: red;
+	opacity: 0.7;
+
+}
+.formulario__input, .formulario__label, .formulario__submit{
+display: block;
+width: 100%;
+
+	
+}
+.formulario__input{
+	background: transparent;
+	padding: 10px;
+	border:1px solid rgba(255,255,255,0.5);
+	color: white;
+	margin-bottom: 55px;
+}
+.formulario__input:focus + .formulario__label{
+	margin-top: -115px;
+}
+.formulario__label{
+	padding-left: 15px;
+	position: absolute;
+	margin-top: -85px;
+	z-index: -20;
+	color: rgba(255,255,255,0.5);
+	transition: all 0.2s;
+}
+.formulario__submit{
+	background:rgba(255,0,0,0.7);
+	color: white;
+	padding: 10px 20px;
+	cursor: pointer;
+	border:none;
+}
+.fijar{
+	margin-top: -115px;
+}
