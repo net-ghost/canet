@@ -1,0 +1,173 @@
+
+
+
+/* SCROLL DE TERCERA FILA PARA ABAJO*/
+
+.b-2{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.b-2 h4{
+	color: white;
+	font-size: 22px;
+	margin-left:10px;
+}
+.box1{
+	height: 200px;
+	margin: 0;
+	overflow-x: none;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+.box1::-webkit-scrollbar {
+	display: none;
+}
+.card-a1{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-b1{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-c1{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-a1 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-b1 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-c1 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+/* SCROLL DE TERCERA FILA PARA ABAJO*/
+
+
+
+/* SCROLL DE QUINTA FILA*/
+.b-3{
+
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.b-3 h4{
+		color: white;
+	font-size: 22px;
+	margin-left: 10px;
+}
+.box2{
+	height: 200px;
+	margin: 0;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+.box2::-webkit-scrollbar {
+	display: none;
+}
+.card-a2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-b2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-c2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-a2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-b2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-c2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+/* SCROLL DE QUINTA FILA*/
+
+
+
+/*SCROLL DE PRIMERA FILA*/
+
+.box3{
+	height: 200px;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+.box3::-webkit-scrollbar {
+	display: none;
+}
+.card-a3{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-b3{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-c3{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 100%;
+	width: 400px;
+	display: inline-block;
+}
+.card-a3 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-b3 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-c3 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+/*SCROLL DE PRIMERA FILA*/

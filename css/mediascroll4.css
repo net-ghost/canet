@@ -1,0 +1,65 @@
+@media (min-width: 700px){
+	/* SCROLL DE QUINTA FILA*/
+.b-3{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.b-3 h4{
+	color: white;
+	font-size: 15px;
+	margin-left: 10px;
+}
+.box2{
+	height: 150px;
+	margin: 0;
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+.box2::-webkit-scrollbar {  
+	display: block; 
+    height: 7px;    /* Tamaño del scroll en horizontal */   
+    background: #fff;
+}
+.box2::-webkit-scrollbar-thumb {
+    background: #0C477D;
+    border-radius: 3px;
+}
+.card-a2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 95%;
+	width: 300px;
+	display: inline-block;
+}
+.card-b2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 95%;
+	width: 300px;
+	display: inline-block;
+}
+.card-c2{
+	overflow: hidden;
+	margin-left: 10px;
+	height: 95%;
+	width: 300px;
+	display: inline-block;
+}
+.card-a2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-b2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+.card-c2 a img{
+	border-radius: 5px;
+	width: 100%;
+	height: 100%;
+}
+/* SCROLL DE QUINTA FILA*/
+}
