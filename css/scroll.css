@@ -9,11 +9,11 @@
 }
 .b-2 h4{
 	color: white;
-	font-size: 22px;
+	font-size: 30px;
 	margin-left:10px;
 }
 .box1{
-	height: 200px;
+	height: 300px;
 	margin: 0;
 	overflow-x: none;
 	overflow-y: hidden;
@@ -26,21 +26,21 @@
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-b1{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-c1{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-a1 a img{
@@ -74,7 +74,7 @@
 	margin-left: 10px;
 }
 .box2{
-	height: 200px;
+	height: 300px;
 	margin: 0;
 	overflow-x: scroll;
 	overflow-y: hidden;
@@ -87,21 +87,21 @@
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-b2{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-c2{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-a2 a img{
@@ -126,7 +126,7 @@
 /*SCROLL DE PRIMERA FILA*/
 
 .box3{
-	height: 200px;
+	height: 300px;
 	overflow-x: scroll;
 	overflow-y: hidden;
 	white-space: nowrap;
@@ -138,21 +138,21 @@
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-b3{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-c3{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 100%;
-	width: 400px;
+	width: 450px;
 	display: inline-block;
 }
 .card-a3 a img{
