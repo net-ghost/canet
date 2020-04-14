@@ -1,4 +1,4 @@
-@media (min-width: 1000px){
+@media (min-width: 700px){
 	/* SCROLL DE TERCERA FILA PARA ABAJO*/
 
 .b-2{
@@ -6,12 +6,12 @@
 	margin-bottom: 10px;
 }
 .b-2 h4{
-	color: black;
+	color: white;
 	font-size: 15px;
 	margin-left:10px;
 }
 .box1{
-	height: 300px;
+	height: 150px;
 	margin: 0;
 	overflow-x: scroll;
 	overflow-y: hidden;
@@ -30,21 +30,21 @@
 	overflow: hidden;
 	margin-left: 10px;
 	height: 95%;
-	width: 150px;
+	width: 300px;
 	display: inline-block;
 }
 .card-b1{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 95%;
-	width: 150px;
+	width: 300px;
 	display: inline-block;
 }
 .card-c1{
 	overflow: hidden;
 	margin-left: 10px;
 	height: 95%;
-	width: 150px;
+	width: 300px;
 	display: inline-block;
 }
 .card-a1 a img{
